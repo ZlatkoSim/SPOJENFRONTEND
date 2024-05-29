@@ -1,0 +1,109 @@
+{
+  "vozila": [
+    {
+      "id": "2",
+      "marka": "audi",
+      "model": "a4",
+      "registracijski_broj": "111-B-131",
+      "datum_isteka_registracije": "12.04.2024.",
+      "godina_proizvodnje": 2020,
+      "tip_goriva": "benzin",
+      "status": "slobodno"
+    },
+    {
+      "id": "3",
+      "marka": "mercedes",
+      "model": "c200",
+      "registracijski_broj": "555-B-222",
+      "datum_isteka_registracije": "12.10.2024.",
+      "godina_proizvodnje": 2019,
+      "tip_goriva": "dizel",
+      "status": "slobodno"
+    },
+    {
+      "marka": "Opel",
+      "model": "Insignia",
+      "registracijski_broj": "111-A-222",
+      "datum_isteka_registracije": "12.12.2024",
+      "godina_proizvodnje": "2008",
+      "tip_goriva": "Dizel",
+      "status": "Slobodno",
+      "id": "4"
+    },
+    {
+      "marka": "volvo",
+      "model": "s90",
+      "registracijski_broj": "000-1111",
+      "datum_isteka_registracije": "10.10.2010.",
+      "godina_proizvodnje": "2010",
+      "tip_goriva": "dizel",
+      "status": "zauzeto",
+      "id": "5"
+    },
+    {
+      "marka": "dacia",
+      "model": "sandero",
+      "registracijski_broj": "999-1211",
+      "datum_isteka_registracije": "9.9.2024.",
+      "godina_proizvodnje": "2015",
+      "tip_goriva": "dizel",
+      "status": "slobodno",
+      "id": "6"
+    }
+  ],
+  "vozaci": [
+    {
+      "id": "2",
+      "ime": "neda",
+      "prezime": "spiric",
+      "broj_vozacke_dozvole": "4546",
+      "datum_isteka_dozvole": "25.2.2028",
+      "kategorije_vozacke_dozvole": "c",
+      "kontakt_informacije": "066/4454-505",
+      "ogranicenja_za_voznju": "nema",
+      "status": "neaktivno"
+    },
+    {
+      "id": "3",
+      "ime": "aMladen",
+      "prezime": "Lazarevic",
+      "broj_vozacke_dozvole": "01970MAJE",
+      "datum_isteka_dozvole": "25.10.2024.",
+      "kategorije_vozacke_dozvole": "B",
+      "kontakt_informacije": "066/364-505",
+      "ogranicenja_za_voznju": "NEMA",
+      "status": "aktivno"
+    },
+    {
+      "id": "4",
+      "ime": "maja",
+      "prezime": "bozic",
+      "broj_vozacke_dozvole": "4543166",
+      "datum_isteka_dozvole": "15.03.2028.",
+      "kategorije_vozacke_dozvole": "b",
+      "kontakt_informacije": "56125516",
+      "ogranicenja_za_voznju": "nema",
+      "status": "aktivna"
+    }
+  ],
+  "radni_nalog": [
+    {
+      "id": "1",
+      "vozilo_id": 6,
+      "vozac_id": 2,
+      "opis_zadatka": "iweojqwo",
+      "datum_i_vrijeme_izdavanja": "16.05.2024",
+      "rok_zavrsavanja": "18.06.2024",
+      "status": "otvoren"
+    },
+    {
+      "vozilo_id": "jhfghj",
+      "vozac_id": "hgfhjgf",
+      "opis_zadatka": "gdfghfd",
+      "datum_i_vrijeme_izdavanja": "12.05.2025",
+      "rok_zavrsavanja": "12.05.2026",
+      "status": "otvoren",
+      "id": "q1Q_-rA"
+    }
+  ]
+}
